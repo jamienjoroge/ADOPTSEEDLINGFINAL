@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">A.A.S</string>
+  <string name="title_activity_maps">Map</string>
+
+  //radio buttons
+  <string name="btn_display">Display</string>
+  <string name="radio_location1">SIOKIMAU</string>
+  <string name="radio_location2">VOI</string>
+  <string name="radio_location3">ABORETUM</string>
+
+  //Backup4App
+  <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+  <!-- App ID and Client Key from my account in Backup4App -->
+  <string name="back4app_app_id">lRRDQNOz0TlcRZd8iuV0EyeNPS7WOrFw0eEhRSdf</string>
+  <string name="back4app_client_key">FUtj19iiumqIX9ab5U5jfdWnQEYL94KkvXlS7Joi</string>
+  <string name="adopt">ADOPT!</string>
+  <string name="cancel">CANCEL</string>
+</resources>

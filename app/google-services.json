@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "634763713043",
+    "firebase_url": "https://adopt-a-seedling-lnm-pesa.firebaseio.com",
+    "project_id": "adopt-a-seedling-lnm-pesa",
+    "storage_bucket": "adopt-a-seedling-lnm-pesa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634763713043:android:9e2b6524b567f69c",
+        "android_client_info": {
+          "package_name": "com.example.adoptseedlingfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634763713043-fm1g13t5vbjsq69ct4k6jrubqdvjbuat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gLYxTlZ-3P-4CEnto-H39y6eUefZr2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634763713043-fm1g13t5vbjsq69ct4k6jrubqdvjbuat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
